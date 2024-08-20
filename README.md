@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the BüWi App
 - 📫 How to reach me: max@biaq.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have touched grass.
+- ⚡ Fun fact: I don't like CSS frameworks.
 
 <!---
 maxbrc/maxbrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
