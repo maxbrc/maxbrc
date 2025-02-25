@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxbrc
 - 👀 I’m interested in Tech and Outdoors
 - 🌱 I’m currently learning Cybersecurity and Full Stack (Web) Development
-- 📫 How to reach me: max@biaq.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I hate CSS frameworks.
 
