@@ -1,3 +1,4 @@
-Languages: TypeScript, Python, Go, Rust
-Frameworks: React
-Expertise: Networking, Servers, Cybersecurity
+- Languages: TypeScript, Python, SQL, Go, Rust
+- Frameworks: React
+- Expertise: Networking, Servers, Cybersecurity
+- Favorite Opensource Projects: Wazuh and Jellyfin
