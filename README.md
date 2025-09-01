@@ -2,4 +2,4 @@
 - Frameworks: React
 - Expertise: Networking, SysAdmin, Cybersecurity
 - Favorite Opensource Projects: Wazuh and Jellyfin
-- School instructor for event technology and programming
+- School instructor for event technology and programming (@gymbw)
