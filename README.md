@@ -1,4 +1,5 @@
-- Languages: TypeScript, Python, SQL, Go, Rust
+- Languages: TypeScript, Python, SQL, Go, Rust, Assembly
 - Frameworks: React
-- Expertise: Networking, Servers, Cybersecurity
+- Expertise: Networking, SysAdmin, Cybersecurity
 - Favorite Opensource Projects: Wazuh and Jellyfin
+- School instructor for event technology and programming
