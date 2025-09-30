@@ -1,4 +1,4 @@
-- Languages: TypeScript, Python, SQL, Go, Rust, Assembly
+- Languages: TypeScript, Python, SQL, Go, Rust, C, Assembly
 - Frameworks: React
 - Expertise: Networking, SysAdmin, Cybersecurity
 - Favorite Opensource Projects: Wazuh and Jellyfin
